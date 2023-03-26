@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/23049337/226212853-5b96a6ff-5a41-4b1c-9262-38666e43b491.png)
+![image](https://user-images.githubusercontent.com/23049337/227778918-dcd76967-8b1b-48ed-9056-156bbb4416a9.png)
 
  
 Kubernetes in Docker with Terraform
@@ -7,7 +7,7 @@ Kubernetes in Docker with Terraform
 
 🎯 About
 
-OpenMetadata Unlock the value of data assets with an end-to-end metadata platform that includes data discovery, governance, data quality, observability, and people collaborationd.
+Velero is an open source tool developed by VMware and used for backing and restoring resources in a Kubernetes cluster, performing disaster recovery, and can be used for migrating resources and persistent volumes to another Kubernetes cluster
 🚀 Technologies
 
 OpenMetadata depends on following components to build a metadata platform
