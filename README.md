@@ -10,7 +10,7 @@ Kubernetes in Docker with Terraform
 Velero is an open source tool developed by VMware and used for backing and restoring resources in a Kubernetes cluster, performing disaster recovery, and can be used for migrating resources and persistent volumes to another Kubernetes cluster
 🚀 Technologies
 
-OpenMetadata depends on following components to build a metadata platform
+Velero features such as scheduled backups, retention schedules, and pre- or post-backup hooks for custom actions. Velero can help protect data stored in persistent volumes and makes your entire Kubernetes cluster more resilient
 
     JsonSchemas for defining Metadata Schemas
     Dropwizard/Jetty for REST APIs
